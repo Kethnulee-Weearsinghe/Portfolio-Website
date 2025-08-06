@@ -1,8 +1,6 @@
-# 🧑‍💻 Kethnulee Weerasinghe – Developer Portfolio
+# Portfolio Website
 
-This is my personal portfolio website, built with **React.js**, to showcase my technical skills, frontend projects, and background as a Software Engineering graduate aspiring to become a professional **Frontend Developer**.
-
-The site features a modern, responsive design with smooth navigation, a contact form powered by Web3Forms, and downloadable resume access.
+This is my personal portfolio website, built with **React.js**, to showcase my technical skills, frontend projects, and background as a Software Engineering graduate aspiring to become a professional **Frontend Developer**. The site features a modern, responsive design with smooth navigation, a contact form powered by Web3Forms, and downloadable resume access.
 
 ---
 
@@ -34,5 +32,4 @@ https://lustrous-phoenix-d30745.netlify.app/
 - Functional contact form (Web3Forms)
 - Downloadable CV (PDF)
 - External links to GitHub and LinkedIn
-```bash
-git clone https://github.com/Kethnulee-Weearsinghe/Portfolio-Website.git
+
