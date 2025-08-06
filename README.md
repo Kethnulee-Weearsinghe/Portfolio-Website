@@ -9,7 +9,7 @@ The site features a modern, responsive design with smooth navigation, a contact 
 ## 🔗 Live Site
 
 Visit Portfolio Website
-(https://your-netlify-or-vercel-link.com](https://vermillion-cranachan-676d96.netlify.app/](https://lustrous-phoenix-d30745.netlify.app/)  
+https://lustrous-phoenix-d30745.netlify.app/
 
 ---
 
